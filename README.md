@@ -24,7 +24,7 @@
 - .NET 10 SDK
 - PostgreSQL 15+
 
-##Запуск проекта через PowerShell
+## Запуск проекта через PowerShell
 1. Установка .net 10 sdk
 2. В PowerShell перейти в директорию, куда сохранен проект
 3. Затем ввести команду: dotnet build --restore
